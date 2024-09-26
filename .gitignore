@@ -1,0 +1,14 @@
+# Common Python project files and directories to ignore
+*.pyc
+__pycache__
+build/
+dist/
+venv/
+.vscode/
+.idea/
+.env
+.srt
+title_*.txt
+chapters_*.txt
+description_*.txt
+*.srt
